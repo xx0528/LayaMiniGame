@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94020005181",
+    "project_id": "move-brick",
+    "storage_bucket": "move-brick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94020005181:android:4c979198ad4bc0f59aa954",
+        "android_client_info": {
+          "package_name": "com.reborn.MoveBrick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94020005181-b02iog13ite22mn362f1b5vl0bv90qmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reborn.MoveBrick",
+            "certificate_hash": "c553d25c401a10756746e53e4ffa39409e374ebf"
+          }
+        },
+        {
+          "client_id": "94020005181-0g7d1gtcmal60f80ab8javac3ol5ftrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcLlElguNY70HcHMKLbb-KRoDjFAfG-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94020005181-0g7d1gtcmal60f80ab8javac3ol5ftrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
