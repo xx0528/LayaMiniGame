@@ -100,8 +100,8 @@ public class JSBridge {
         m_Handler.post(
                 new Runnable() {
                     public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.hideBanner();
+//                        if (MainActivity.mInstance != null)
+//                            MainActivity.mInstance.hideBanner();
                     }
                 });
     }
@@ -110,8 +110,8 @@ public class JSBridge {
         m_Handler.post(
                 new Runnable() {
                     public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.showBanner();
+//                        if (MainActivity.mInstance != null)
+//                            MainActivity.mInstance.showBanner();
                     }
                 });
     }
@@ -120,8 +120,8 @@ public class JSBridge {
         m_Handler.post(
                 new Runnable() {
                     public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.showInsertVideo();
+//                        if (MainActivity.mInstance != null)
+//                            MainActivity.mInstance.showInsertVideo();
                     }
                 });
     }
@@ -130,8 +130,8 @@ public class JSBridge {
         m_Handler.post(
                 new Runnable() {
                     public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.loadNextAd();
+//                        if (MainActivity.mInstance != null)
+//                            MainActivity.mInstance.loadNextAd();
                     }
                 });
     }
@@ -140,8 +140,8 @@ public class JSBridge {
         m_Handler.post(
                 new Runnable() {
                     public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.showRewardedVideo();
+//                        if (MainActivity.mInstance != null)
+//                            MainActivity.mInstance.showRewardedVideo();
                     }
                 });
     }
