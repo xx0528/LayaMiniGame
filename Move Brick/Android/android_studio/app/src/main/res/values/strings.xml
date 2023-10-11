@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Move Brick</string>
+    <string name="app_name">Super Lucky-Caesars</string>
     <string name="on_back_pressed">Click the back button again to exit the game!</string>
     <string name="alert_dialog_title">Notice</string>
     <!--专用测试插页广告ID 测试时用真实ID有可能会被封号-->

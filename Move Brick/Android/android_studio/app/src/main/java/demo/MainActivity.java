@@ -27,23 +27,6 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 
-
-import com.google.android.gms.ads.AdError;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdSize;
-import com.google.android.gms.ads.FullScreenContentCallback;
-import com.google.android.gms.ads.AdView;
-import com.google.android.gms.ads.LoadAdError;
-import com.google.android.gms.ads.MobileAds;
-import com.google.android.gms.ads.OnUserEarnedRewardListener;
-import com.google.android.gms.ads.RequestConfiguration;
-import com.google.android.gms.ads.initialization.InitializationStatus;
-import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
-import com.google.android.gms.ads.interstitial.InterstitialAd;
-import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
-import com.google.android.gms.ads.rewarded.RewardItem;
-import com.google.android.gms.ads.rewarded.RewardedAd;
-import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback;
 import com.reborn.MoveBrick.R;
 
 
@@ -59,10 +42,10 @@ public class MainActivity extends Activity{
     public static MainActivity mInstance;
 
     private FrameLayout gameContainer;
-    private AdView adView;
-    private InterstitialAd mInterstitialAd;
-    private RewardedAd rewardedAd;
-    boolean isLoading;
+//    private AdView adView;
+//    private InterstitialAd mInterstitialAd;
+//    private RewardedAd rewardedAd;
+//    boolean isLoading;
 
     @Override    
     protected void onCreate(Bundle savedInstanceState) {
@@ -95,202 +78,23 @@ public class MainActivity extends Activity{
 
 //        this.setContentView(gameView);
 
-
-        // Initialize the Mobile Ads SDK.
-        MobileAds.initialize(this, new OnInitializationCompleteListener() {
-            @Override
-            public void onInitializationComplete(InitializationStatus initializationStatus) { }
-        });
-
-        RequestConfiguration requestConfiguration = MobileAds.getRequestConfiguration()
-            .toBuilder()
-            .setTagForChildDirectedTreatment(
-                RequestConfiguration.TAG_FOR_CHILD_DIRECTED_TREATMENT_TRUE)
-            .setMaxAdContentRating(RequestConfiguration.MAX_AD_CONTENT_RATING_G)
-            .build();
-        MobileAds.setRequestConfiguration(requestConfiguration);
-
-        //加载横幅广告
-        // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
-        // values/strings.xml.
-        this.adView = findViewById(R.id.ad_view);
-        this.adView.loadAd(new AdRequest.Builder().build());
-        this.adView.setVisibility(View.GONE);
-
-        //激励广告初始化
-        loadRewardedAd();
-
-        //加载插页广告
-//        loadInsertAd();
+//
+//        // Initialize the Mobile Ads SDK.
+//        MobileAds.initialize(this, new OnInitializationCompleteListener() {
+//            @Override
+//            public void onInitializationComplete(InitializationStatus initializationStatus) { }
+//        });
+//
+//        RequestConfiguration requestConfiguration = MobileAds.getRequestConfiguration()
+//            .toBuilder()
+//            .setTagForChildDirectedTreatment(
+//                RequestConfiguration.TAG_FOR_CHILD_DIRECTED_TREATMENT_TRUE)
+//            .setMaxAdContentRating(RequestConfiguration.MAX_AD_CONTENT_RATING_G)
+//            .build();
+//        MobileAds.setRequestConfiguration(requestConfiguration);
+//
 
         isLoad=true;
-    }
-
-    private void loadRewardedAd() {
-        if (rewardedAd == null) {
-            isLoading = true;
-            AdRequest adRequest = new AdRequest.Builder().build();
-            RewardedAd.load(
-                    this,
-                    getString(R.string.ad_reward_id),
-                    adRequest,
-                    new RewardedAdLoadCallback() {
-                        @Override
-                        public void onAdFailedToLoad(@NonNull LoadAdError loadAdError) {
-                            // Handle the error.
-                            Log.d(TAG, loadAdError.getMessage());
-                            rewardedAd = null;
-                            MainActivity.this.isLoading = false;
-//                            Toast.makeText(MainActivity.this, "onAdFailedToLoad", Toast.LENGTH_SHORT).show();
-                            Toast.makeText(MainActivity.this, "The reward ad load failed.", Toast.LENGTH_SHORT).show();
-                        }
-
-                        @Override
-                        public void onAdLoaded(@NonNull RewardedAd rewardedAd) {
-                            MainActivity.this.rewardedAd = rewardedAd;
-                            Log.d(TAG, "onAdLoaded");
-                            MainActivity.this.isLoading = false;
-//                            Toast.makeText(MainActivity.this, "onAdLoaded", Toast.LENGTH_SHORT).show();
-                        }
-                    });
-        }
-    }
-
-    public void loadInsertAd() {
-        AdRequest adRequest = new AdRequest.Builder().build();
-        InterstitialAd.load(
-                this,
-                getString(R.string.ad_interstitial_id),
-                adRequest,
-                new InterstitialAdLoadCallback() {
-                    @Override
-                    public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
-                        // The mInterstitialAd reference will be null until
-                        // an ad is loaded.
-                        MainActivity.this.mInterstitialAd = interstitialAd;
-                        Log.i(TAG, "onInsertAdLoaded----------");
-//                        Toast.makeText(MainActivity.this, "onInsertAdLoaded()", Toast.LENGTH_SHORT).show();
-                        interstitialAd.setFullScreenContentCallback(
-                                new FullScreenContentCallback() {
-                                    @Override
-                                    public void onAdDismissedFullScreenContent() {
-                                        // Called when fullscreen content is dismissed.
-                                        // Make sure to set your reference to null so you don't
-                                        // show it a second time.
-                                        MainActivity.this.mInterstitialAd = null;
-                                        Log.d(TAG, "The ad was dismissed.");
-                                        ConchJNI.RunJS("NativeCallback.onInsertVideoEnd()");
-                                    }
-
-                                    @Override
-                                    public void onAdFailedToShowFullScreenContent(AdError adError) {
-                                        // Called when fullscreen content failed to show.
-                                        // Make sure to set your reference to null so you don't
-                                        // show it a second time.
-                                        MainActivity.this.mInterstitialAd = null;
-                                        Log.d(TAG, "The ad failed to show.");
-                                        ConchJNI.RunJS("NativeCallback.onInsertVideoEnd()");
-
-                                    }
-
-                                    @Override
-                                    public void onAdShowedFullScreenContent() {
-                                        // Called when fullscreen content is shown.
-                                        Log.d(TAG, "The ad was shown.");
-//                                        ConchJNI.RunJS("NativeCallback.onInsertVideoEnd()");
-                                    }
-                                });
-                    }
-
-                    @Override
-                    public void onAdFailedToLoad(@NonNull LoadAdError loadAdError) {
-                        // Handle the error
-                        Log.i(TAG, loadAdError.getMessage());
-                        mInterstitialAd = null;
-                        ConchJNI.RunJS("NativeCallback.onInsertVideoEnd()");
-                        Toast.makeText(MainActivity.this, "The insert ad load failed.", Toast.LENGTH_SHORT).show();
-//                        String error =
-//                                String.format(
-//                                        "domain: %s, code: %d, message: %s",
-//                                        loadAdError.getDomain(), loadAdError.getCode(), loadAdError.getMessage());
-//                        Toast.makeText(
-//                                        MainActivity.this, "onAdFailedToLoad() with error: " + error, Toast.LENGTH_SHORT)
-//                                .show();
-                    }
-                });
-    }
-
-    public void showRewardedVideo() {
-
-        if (rewardedAd == null) {
-            Log.d(TAG, "The rewarded ad wasn't ready yet.");
-            Toast.makeText(MainActivity.this, "The rewarded ad wasn't ready yet.", Toast.LENGTH_SHORT).show();
-            ConchJNI.RunJS("NativeCallback.onVideoFail()");
-            MainActivity.this.loadRewardedAd();
-            return;
-        }
-        //showVideoButton.setVisibility(View.INVISIBLE);
-
-        rewardedAd.setFullScreenContentCallback(
-                new FullScreenContentCallback() {
-                    @Override
-                    public void onAdShowedFullScreenContent() {
-                        // Called when ad is shown.
-                        Log.d(TAG, "onAdShowedFullScreenContent");
-//                        Toast.makeText(MainActivity.this, "onAdShowedFullScreenContent", Toast.LENGTH_SHORT).show();
-                        MainActivity.this.loadRewardedAd();
-                    }
-
-                    @Override
-                    public void onAdFailedToShowFullScreenContent(AdError adError) {
-                        // Called when ad fails to show.
-                        Log.d(TAG, "onAdFailedToShowFullScreenContent");
-                        // Don't forget to set the ad reference to null so you
-                        // don't show the ad a second time.
-                        rewardedAd = null;
-//                        Toast.makeText(MainActivity.this, "onAdFailedToShowFullScreenContent", Toast.LENGTH_SHORT).show();
-                        ConchJNI.RunJS("NativeCallback.onVideoFail()");
-                        MainActivity.this.loadRewardedAd();
-                    }
-
-                    @Override
-                    public void onAdDismissedFullScreenContent() {
-                        // Called when ad is dismissed.
-                        // Don't forget to set the ad reference to null so you
-                        // don't show the ad a second time.
-                        rewardedAd = null;
-                        Log.d(TAG, "onAdDismissedFullScreenContent");
-//                        Toast.makeText(MainActivity.this, "onAdDismissedFullScreenContent", Toast.LENGTH_SHORT).show();
-                        ConchJNI.RunJS("NativeCallback.onVideoFail()");
-                        // Preload the next rewarded ad.
-                        MainActivity.this.loadRewardedAd();
-                    }
-                });
-        Activity activityContext = MainActivity.this;
-        rewardedAd.show(
-                activityContext,
-                new OnUserEarnedRewardListener() {
-                    @Override
-                    public void onUserEarnedReward(@NonNull RewardItem rewardItem) {
-                        // Handle the reward.
-                        int rewardAmount = rewardItem.getAmount();
-                        String rewardType = rewardItem.getType();
-                        Log.d(TAG, "The user earned the reward.---- " + rewardType + " -- " + rewardAmount);
-//                        ConchJNI.RunJS("NativeCallback.onVideoSuccess(" + rewardType + "-" + rewardAmount + ")");
-                        ConchJNI.RunJS("NativeCallback.onVideoSuccess()");
-                        MainActivity.this.loadRewardedAd();
-                    }
-                });
-    }
-
-    public void showInsertVideo() {
-        if (mInterstitialAd == null) {
-            Log.d(TAG, "The interstitial ad wasn't ready yet.");
-            ConchJNI.RunJS("NativeCallback.onInsertVideoEnd()");
-            Toast.makeText(MainActivity.this, "The interstitial ad wasn't ready yet.", Toast.LENGTH_SHORT).show();
-            return;
-        }
-        mInterstitialAd.show(this);
     }
 
     public  boolean isOpenNetwork(Context context)
@@ -367,25 +171,25 @@ public class MainActivity extends Activity{
 
 
     public void hideBanner() {
-        if (adView != null) {
-            this.adView.setVisibility(View.GONE);
-        }
+//        if (adView != null) {
+//            this.adView.setVisibility(View.GONE);
+//        }
     }
 
     public void showBanner() {
         Log.e("0", "============== showBanner ");
-        if (adView != null) {
-            this.adView.setVisibility(View.VISIBLE);
-        }
-        else {
-            Toast.makeText(MainActivity.this, "The banner ad wasn't ready yet.", Toast.LENGTH_SHORT).show();
-        }
+//        if (adView != null) {
+//            this.adView.setVisibility(View.VISIBLE);
+//        }
+//        else {
+//            Toast.makeText(MainActivity.this, "The banner ad wasn't ready yet.", Toast.LENGTH_SHORT).show();
+//        }
     }
     //只有插页视频在这里主动load 激励视频看完直接就load了
     public void loadNextAd() {
-        if (mInterstitialAd == null) {
-            loadInsertAd();
-        }
+//        if (mInterstitialAd == null) {
+////            loadInsertAd();
+//        }
     }
 
     public void vibrateShort() {
