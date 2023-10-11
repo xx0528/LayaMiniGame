@@ -97,53 +97,21 @@ public class JSBridge {
     }
 
     public static void hideBanner() {
-        m_Handler.post(
-                new Runnable() {
-                    public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.hideBanner();
-                    }
-                });
     }
 
     public static void showBanner() {
-        m_Handler.post(
-                new Runnable() {
-                    public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.showBanner();
-                    }
-                });
     }
 
     public static void showInsertVideo() {
-        m_Handler.post(
-                new Runnable() {
-                    public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.showInsertVideo();
-                    }
-                });
+
     }
 
     public static void loadNextAd() {
-        m_Handler.post(
-                new Runnable() {
-                    public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.loadNextAd();
-                    }
-                });
+
     }
 
     public static void showRewardVideo() {
-        m_Handler.post(
-                new Runnable() {
-                    public void run() {
-                        if (MainActivity.mInstance != null)
-                            MainActivity.mInstance.showRewardedVideo();
-                    }
-                });
+
     }
 
 }
