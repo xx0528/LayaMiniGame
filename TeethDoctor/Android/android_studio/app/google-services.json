@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "913512074173",
+    "project_id": "teeth-doctor-c632a",
+    "storage_bucket": "teeth-doctor-c632a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913512074173:android:0bef4d1b6face7a0e8e0d4",
+        "android_client_info": {
+          "package_name": "com.reborn.TeethDoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913512074173-fc3v2vvs2r1l6vt42tcl0kb07s5qm5ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reborn.TeethDoctor",
+            "certificate_hash": "7357a3772063a26d8d0fa73ab1778e21bf437a10"
+          }
+        },
+        {
+          "client_id": "913512074173-4vkfm6mpu6igqu9cds2g35339rci4tu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx9ANcL9Ev48LkNGllfvdCI6eHPDi4ZCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913512074173-4vkfm6mpu6igqu9cds2g35339rci4tu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

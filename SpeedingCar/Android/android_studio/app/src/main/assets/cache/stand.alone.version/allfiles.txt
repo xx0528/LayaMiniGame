@@ -1,0 +1,231 @@
+/ClickGetPrize/NewProject.png
+/ClickGetPrize/NewProject.sk
+/ClickGetPrize/quanji.sk
+/fileconfig.json
+/GameMain.json
+/index.html
+/index.js
+/js/bundle.js
+/KRQ.json
+/libs/laya.ani.js
+/libs/laya.core.js
+/libs/laya.d3.js
+/libs/laya.physics3D.js
+/libs/laya.physics3D.runtime.js
+/libs/laya.ui.js
+/Loading/dibubeijingsekuai.png
+/Loading/jiazaidunhao.png
+/Loading/loadingshangtiao.png
+/Loading/loadingxiatiao.png
+/Loading/ziyuanjiazaizhong.png
+/Loading/我的车技特牛logo2.min.png
+/res/对话框.min.png
+/res/弹窗bg.min.png
+/res/我的车技特牛logo2.min.png
+/res/油条1.png
+/res/油条2.png
+/subRes/game.js
+/subRes/json/appswitch.json
+/subRes/json/carData.json
+/subRes/json/levelData.json
+/subRes/json/storeconfig.json
+/subRes/LayaScene_scenes_01/Conventional/Assets/Animator/BeHit-BeHit.lani
+/subRes/LayaScene_scenes_01/Conventional/Assets/Animator/Crush-Crush.lani
+/subRes/LayaScene_scenes_01/Conventional/Assets/Animator/HeadLightFlash-HeadLightFlash.lani
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Anim/anim_basi-anim_basi.lani
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Anim/Anim_chongci-Anim_chongci.lani
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/baozha.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/boom.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Effects_shanguang_Com 1.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/guangyun_bai 1.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/guangyun_bai.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/mat_guangzhu 2.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_jinb.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_jinb_02.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_shuimian 2.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_shuimian 3.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_shuimian 4.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_shuimian 5.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_shuimian 6.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_shuimian 7.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_shuimian 8.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_smoke.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_xian 1.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_xian.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/Mat_yinzi.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/suishi.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Materials/sushi.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Mods/222-Sphere001.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/1.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/22dsa_00000.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/5_00000.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/boom.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/chunse_00003.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/concat.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/Effect_Wave08.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/Explosion-B.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/guangyun_bai.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/Heatwave 2.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/jinbi_00000.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/SF4_dds_0297.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/SF4_dds_0298.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/smoke_anim02.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/Sungame0041.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/trail.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Effect/Textures/xian_01.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/effte/Materials/lizi 2.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/effte/Textures/ac70d516cc42e891fa765eafceaea6f.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/LayaAir3D/LayaTool/LayaResouce/Close.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/body_0Mat.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/cloud1.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/cloud2.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/cloud3.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/daoju_01.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/diangan.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/jieshu.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/jinbi.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/kaisi.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/lunzi.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/Plane_0Mat 1.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/Plane_City.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/Plane_DayTime.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/Plane_Night.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/shitou.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/sky.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/Tile_beach_1_0Mat 1.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/xianrenzhang_01.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/xianrenzhang_02.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/xianrenzhang_03.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/xianrenzhang_04.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/Materials/xianrenzhang_05.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Body _1493-Body_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/body _1519-body_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/body _1525-body_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/body _1531-body_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Body _1535-Body_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Body-Body_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Cylinder001 _1524-Cylinder001_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Cylinder001 _1562-Cylinder001_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/ganzi-pCube1.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/huojian-Rocket26_Rocket26_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/jinbi-Cylinder009_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/lunzi_03-BackRight_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Object007 _1720-Object007_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Object017-Object018_polySurface1_Object018_Object017_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Plane006-Plane006_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Plane025-Plane026.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/rock-terrasse-rock_terrasse_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Rock2-Rock2_Rock2_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/Rock3-Rock3_Rock3_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/SM_Env_Cliff_02-SM_Env_Cliff_03.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/tree1-tree1_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/tree1-tree1_1.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/mode/tree3-tree3_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/cloud1.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/cloud2.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/cloud3.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/coin.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/colors.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/desert.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/jieshu.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/kaishi.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/RocketsPalletteRed.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/textura_all.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/tiank.ltc
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/tiank_NegativeX.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/tiank_NegativeY.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/tiank_NegativeZ.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/tiank_PositiveX.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/tiank_PositiveY.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/tiank_PositiveZ.png
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/Trees.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/txtura-must.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/Texture2D/water.jpg
+/subRes/LayaScene_scenes_01/Conventional/Assets/zy/Mesh/Boa4-Boa4_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/zy/Mesh/Boat-Boat_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/zy/Mesh/Boat2-Boat2_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/zy/Mesh/Boat3-Boat3_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/zy/Mesh/bush-bush_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/zy/Mesh/LightHouse-LightHouse_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Assets/zy/Mesh/Materials/Plane006_0Mat.lmat
+/subRes/LayaScene_scenes_01/Conventional/Assets/zy/Mesh/Plane-Plane_0.lm
+/subRes/LayaScene_scenes_01/Conventional/Library/unity default resources-Plane.lm
+/subRes/LayaScene_scenes_01/Conventional/Library/unity default resources-Quad.lm
+/subRes/LayaScene_scenes_01/Conventional/scenes_01.ls
+/subRes/main.js
+/subRes/res/ClickGetPrize.atlas
+/subRes/res/ClickGetPrize.png
+/subRes/res/KRQ.atlas
+/subRes/res/KRQ.png
+/subRes/res/res.atlas
+/subRes/res/res.png
+/subRes/res/Template/TT/SignIn.atlas
+/subRes/res/Template/TT/SignIn.png
+/subRes/res/Template/TT.atlas
+/subRes/res/Template/TT.png
+/subRes/res/Template.atlas
+/subRes/res/Template.png
+/subRes/sound/Bgm.ogg
+/subRes/sound/ClickBtn.wav
+/subRes/sound/Crush.wav
+/subRes/sound/Driving.wav
+/subRes/sound/GetCoin.wav
+/subRes/sound/SpeedUp.wav
+/subRes/sound/Whistle.wav
+/subRes/sound/引擎收尾.wav
+/subRes/sound/跑车加速声音_C32kbps.wav
+/subRes/View/GameView.json
+/Template/bg.png
+/Template/ckgg.png
+/Template/dianjikaishiyouxi.png
+/Template/loadingdisejianbianj.png
+/Template/lunbodikuang.png
+/Template/shengli.png
+/Template/shibai.png
+/unpack.json
+/utils/qq/ald-game-conf.js
+/utils/qq/ald-game.js
+/utils/wx/ald-game-conf.js
+/utils/wx/ald-game.js
+/version.json
+/View/ClickGetPrize.json
+/View/KRQ_TEST.json
+/View/MyViews/GameView.json
+/View/MyViews/MainView.json
+/View/Template/Export2ViewTemplate.json
+/View/Template/Export3ViewTemplate.json
+/View/Template/ExportViewTemplate.json
+/View/Template/GameFailViewTemplate.json
+/View/Template/GameWinViewTemplate.json
+/View/Template/InGameViewTemplate.json
+/View/Template/MainViewTemplate.json
+/View/Template/MiniGameViewTemplate.json
+/View/Template/OPPONativeViewTemplate.json
+/View/Template/QQ/QQCrazyClick.json
+/View/Template/QQ/QQCrazyClick2.json
+/View/Template/QQ/QQGameFailViewTemplate.json
+/View/Template/QQ/QQGameWinViewTemplate.json
+/View/Template/QQ/QQInGameViewTemplate.json
+/View/Template/QQ/QQMainViewTemplate.json
+/View/Template/QQCrazyClick.json
+/View/Template/QQCrazyClick2.json
+/View/Template/QQGameFailViewTemplate.json
+/View/Template/QQGameWinViewTemplate.json
+/View/Template/QQInGameViewTemplate.json
+/View/Template/QQMainViewTemplate.json
+/View/Template/RewardViewTemplate.json
+/View/Template/TT/TTCrazyClick.json
+/View/Template/TT/TTGameFailViewTemplate.json
+/View/Template/TT/TTGameWinViewTemplate.json
+/View/Template/TT/TTMainViewTemplate.json
+/View/Template/TT/TTMoreReward.json
+/View/Template/TT/TTResurrection.json
+/View/Template/TT/TTReward.json
+/View/Template/TT/TTSignIn.json
+/View/Template/TT/TTSkinTips.json
+/View/Template/TT/TTStore.json
+/View/Template/VV/VVNativeView1Template.json
+/View/Template/VV/VVNativeView2Template.json
+/View/Template/WXCrazyClick.json
+/View/TipsView.json
+/View/UniversalBottomZone.json

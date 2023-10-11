@@ -1,0 +1,10 @@
+<res>
+   <item name="KRQ/结算页ad.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=20,30,92,30" picType="0" scale="0"/>
+   <item name="Emotions" type="" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="Emotions/biaoqing_1.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Emotions/biaoqing_2.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Emotions/biaoqing_3.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Emotions/biaoqing_4.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="GameView/Tutorial-Finger-Up.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="GameView/轮播小bg.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>

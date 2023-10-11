@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138237144345",
+    "project_id": "golf-fighting",
+    "storage_bucket": "golf-fighting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138237144345:android:681b6af5046fd278d72988",
+        "android_client_info": {
+          "package_name": "com.ly0528.GolfFighting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138237144345-sct2q83gpo8ser9mspmo4p7pre5fgcnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ly0528.GolfFighting",
+            "certificate_hash": "7a894eda3dd5a71b7702fed23bc01e2a98e64f7c"
+          }
+        },
+        {
+          "client_id": "138237144345-2ojqc96p267s94uldrqqkndlj8c810un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPmO6y2upAESlHMbkoJiWcAY6lBMe8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138237144345-2ojqc96p267s94uldrqqkndlj8c810un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

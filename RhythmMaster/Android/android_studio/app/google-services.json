@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228433247007",
+    "project_id": "rhythm-master-33853",
+    "storage_bucket": "rhythm-master-33853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228433247007:android:09767d2bf10467bdc64e2a",
+        "android_client_info": {
+          "package_name": "com.reborn.RhythmMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228433247007-f789jkg46cdhrkjd406vid2pf39dfo09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reborn.RhythmMaster",
+            "certificate_hash": "90211c0351dc0694a51c06928f8806546cd6ffbb"
+          }
+        },
+        {
+          "client_id": "228433247007-dmkc4tk53u9rn4aeq07qveqq2q18qka5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0j8fFT1GiWgr6pEnzG05ro9-J7ai-56I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228433247007-dmkc4tk53u9rn4aeq07qveqq2q18qka5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

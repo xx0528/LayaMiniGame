@@ -1,0 +1,159 @@
+{
+    "songs": [
+        {
+            "name": "Beautiful Now",
+            "songName": "Beautiful Now",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "Beautiful Now.jpg"
+            ],
+            "showOneColor": true
+        },
+		    {
+            "name": "Unity",
+            "songName": "Unity",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "Unity.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "there for you",
+            "songName": "there for you",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "there for you.jpg"
+            ],
+            "showOneColor": true
+        },
+    
+       {
+            "name": "听妈妈的话",
+            "songName": "听妈妈的话",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "听妈妈的话.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "Faded",
+            "songName": "Faded",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "Faded.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "let's fall in love for the night",
+            "songName": "let's fall in love for the night",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "let's fall in love for the night.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "简单爱",
+            "songName": "简单爱",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "简单爱.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "Way Back Home",
+            "songName": "Way Back Home",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "Way Back Home.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "All falls down",
+            "songName": "All falls down",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "All falls down.jpg"
+            ],
+            "showOneColor": true
+        },
+       {
+            "name": "clsr",
+            "songName": "clsr",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "clsr.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "mine",
+            "songName": "mine",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "mine.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "可爱女人",
+            "songName": "可爱女人",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "可爱女人.jpg"
+            ],
+            "showOneColor": true
+        },
+   
+       {
+            "name": "半岛铁盒",
+            "songName": "半岛铁盒",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "半岛铁盒.jpg"
+            ],
+            "showOneColor": true
+        },
+		{
+            "name": "手写的从前",
+            "songName": "手写的从前",
+            "costPower": 10,
+            "enableCharge": 0,
+            "pngs": [
+                "手写的从前.jpg"
+            ],
+            "showOneColor": true
+        }
+   
+   
+    ],
+    "playSongPower": 1,
+    "resurgenceCount": 1,
+    "enableCharge": true
+}

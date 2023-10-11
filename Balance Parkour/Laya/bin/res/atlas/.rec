@@ -1,0 +1,78 @@
+D .
+D ClickGetPrize
+R FB2D9A68 发光2.png
+R 693B445D 图层 1296.png
+P 27C06880 恭喜获得.png
+P 17129909 拆开.png
+P ACD415A0 点击按钮.png
+R 9D618477 疯狂点击bg.png
+P C774F649 确定.png
+P CFA942A4 签到大bg.png
+P 8F066597 箭头.png
+P E3BE6186 进度条1$bar.png
+P 4154E0C4 进度条1.png
+P E2498171 钻石.png
+P AF9E4F3B 领取按钮底部.png
+D Loading
+R CB384393 %.png
+R 3BF288B2 loadedg.png
+R CBC38E6E loadingcold.png
+R A870A603 Loadinglan.png
+R FB6757BB loadye.png
+R 6E122913 logo.png
+R 9B11A003 numloadnum.png
+R 297A1E47 图层 1.png
+D subRes
+D subRes/dragon
+P B7E96119 NewProject.png
+R 2200C7B5 NewProject.sk
+D subRes/GameScene
+P 183C3F00 JoystickBase.png
+P C0716620 JoystickHandle.png
+P 99C59FA8 JoystickHighlight.png
+R 00361901 numfuhuonum.png
+R E029ED6F numguannum.png
+P E28DBF56 numguannumg.png
+P 4B5FD825 numzuanshinum.png
+D subRes/GameScene/gameui
+P 43E02E0C 120cebian.png
+P 96F8E0DD back.png
+P C34B1474 backtomain.png
+R FA0035B6 bottom140.png
+P 42F6928D cebian.png
+R C1B77B93 cebianbig.png
+P B50BF107 configfuhuo.png
+R 46C9AE25 congra.png
+P 78FF1849 continue.png
+R B8CF0195 di.png
+R 161331AC dig.png
+P 8CDB549A douwzuanshi.png
+P 4737683E end170.png
+R A3533D14 endbg.png
+P 7860627C Forward btn.png
+P 9E56D780 friendplaying.png
+P 7C538751 fuhuo.png
+P 938D053B gamesmllbg.png
+P 3135C9E7 gamezuanshi.png
+P 720F297D giveupfuhuo.png
+P 743432FB go.png
+P AA895303 goongame.png
+R 2F575602 guan.png
+R 7BE3C20B guang.png
+P 9F020826 Hearticon.png
+P 4972F68D loadbg.png
+P 2A0B6E86 loaded.png
+R CE451494 lose.png
+P 98B5D975 main140.png
+P 96898FD6 mainbtn.png
+P 57C19A9A mianzuanshi.png
+P E0B60DD4 morefun.png
+P 55BFE3F8 morefun140 2.png
+R F570EE8B morefun140.png
+P 3B639EAF morefun305.png
+P D437A796 morefunbtn.png
+P EE180223 Plusicon.png
+P 688A9CB5 share1.png
+P E8CBB109 startgame.png
+P 4C589D8B tuijian.png
+P E2973DD5 x.png

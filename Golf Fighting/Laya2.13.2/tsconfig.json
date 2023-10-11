@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es6",
+    "noEmitHelpers": true,
+    "sourceMap": true,
+    "removeComments": true, 
+    "baseUrl": ".",
+    "paths": {
+      "tslib": [
+        "D:/LayaAirIDE2.13.1软件/LayaAirIDE/resources/app/node_modules/tslib/tslib.d.ts"
+      ]
+    }, 
+    "lib": [
+      "esnext",
+      "dom",
+      "es2015.promise"
+    ]
+  },
+  
+  "exclude": [
+    "node_modules"
+  ]
+}

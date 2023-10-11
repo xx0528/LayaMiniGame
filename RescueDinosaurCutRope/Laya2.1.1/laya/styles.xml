@@ -1,0 +1,6 @@
+<res>
+   <item name="GameCommon/zuanshi2.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=20,80,20,80" picType="0" scale="0"/>
+   <item name="GameCommon/50hei.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="GameCommon/bg10.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=0,60,0,60" picType="0" scale="0"/>
+   <item name="GameCommon/bg11.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=0,10,0,10" picType="0" scale="0"/>
+</res>

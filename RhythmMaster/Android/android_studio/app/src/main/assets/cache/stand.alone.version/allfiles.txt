@@ -1,0 +1,150 @@
+/external/qy/qy.js
+/fileconfig.json
+/GameMain.scene
+/index.html
+/index.js
+/js/bundle.js
+/libs/laya.core.js
+/libs/laya.d3.js
+/libs/laya.physics3D.js
+/libs/laya.physics3D.runtime.js
+/libs/laya.ui.js
+/Loading/bg.png
+/Loading/微信图片_20191023152139.png
+/Loading/微信图片_201910231521391.jpg
+/Loading/微信图片_201910231521391.png
+/res/atlas/Resource/Pack.atlas
+/res/atlas/Resource/Pack.png
+/res/atlas/Resource/SongDisc.atlas
+/res/atlas/Resource/SongDisc.png
+/Resource/Unpack/412.png
+/Resource/Unpack/421_0019_图层-3.png
+/Resource/Unpack/421_0020_图层-2.png
+/Resource/Unpack/421_0025_组-16.png
+/Resource/Unpack/421_0028_组-7-拷贝.png
+/Resource/Unpack/555_0014_背景.png
+/Resource/Unpack/5_0000_圆角矩形-942.png
+/Resource/Unpack/5_0004_图层-12.png
+/Resource/Unpack/5_0012_组-26.png
+/Resource/Unpack/5_0013_组-26.png
+/Resource/Unpack/CBLoading_0.png
+/Resource/背景.png
+/subRes/game.js
+/subRes/json/appswitch.json
+/subRes/Music/PreviewImage/AllFallsDown.jpg
+/subRes/Music/PreviewImage/BeautifulNow.jpg
+/subRes/Music/PreviewImage/clsr.jpg
+/subRes/Music/PreviewImage/CuteWoman.jpg
+/subRes/Music/PreviewImage/Faded.jpg
+/subRes/Music/PreviewImage/HandwrittenPast.jpg
+/subRes/Music/PreviewImage/IronBox.jpg
+/subRes/Music/PreviewImage/LetFallInLove.jpg
+/subRes/Music/PreviewImage/ListenMonter.jpg
+/subRes/Music/PreviewImage/mine.jpg
+/subRes/Music/PreviewImage/SimpleLove.jpg
+/subRes/Music/PreviewImage/Unity.jpg
+/subRes/Music/PreviewImage/WayBackHome.jpg
+/subRes/Music/Sound/AllFallsDown/AllFallsDown.band
+/subRes/Music/Sound/AllFallsDown/AllFallsDown.mc
+/subRes/Music/Sound/AllFallsDown/AllFallsDown.ogg
+/subRes/Music/Sound/BeautifulNow/BeautifulNow.band
+/subRes/Music/Sound/BeautifulNow/BeautifulNow.mc
+/subRes/Music/Sound/BeautifulNow/BeautifulNow.ogg
+/subRes/Music/Sound/clsr/clsr.band
+/subRes/Music/Sound/clsr/clsr.mc
+/subRes/Music/Sound/clsr/clsr.ogg
+/subRes/Music/Sound/CuteWoman/CuteWoman.band
+/subRes/Music/Sound/CuteWoman/CuteWoman.mc
+/subRes/Music/Sound/CuteWoman/CuteWoman.ogg
+/subRes/Music/Sound/Faded/Faded.band
+/subRes/Music/Sound/Faded/Faded.mc
+/subRes/Music/Sound/Faded/Faded.ogg
+/subRes/Music/Sound/HandwrittenPast/HandwrittenPast.band
+/subRes/Music/Sound/HandwrittenPast/HandwrittenPast.mc
+/subRes/Music/Sound/HandwrittenPast/HandwrittenPast.ogg
+/subRes/Music/Sound/IronBox/IronBox.band
+/subRes/Music/Sound/IronBox/IronBox.mc
+/subRes/Music/Sound/IronBox/IronBox.ogg
+/subRes/Music/Sound/LetFallInLove/LetFallInLove.band
+/subRes/Music/Sound/LetFallInLove/LetFallInLove.mc
+/subRes/Music/Sound/LetFallInLove/LetFallInLove.ogg
+/subRes/Music/Sound/ListenMonter/ListenMonter.band
+/subRes/Music/Sound/ListenMonter/ListenMonter.mc
+/subRes/Music/Sound/ListenMonter/ListenMonter.ogg
+/subRes/Music/Sound/mine/mine.band
+/subRes/Music/Sound/mine/mine.mc
+/subRes/Music/Sound/mine/mine.ogg
+/subRes/Music/Sound/SimpleLove/SimpleLove.band
+/subRes/Music/Sound/SimpleLove/SimpleLove.mc
+/subRes/Music/Sound/SimpleLove/SimpleLove.ogg
+/subRes/Music/Sound/Unity/Unity.band
+/subRes/Music/Sound/Unity/Unity.mc
+/subRes/Music/Sound/Unity/Unity.ogg
+/subRes/Music/Sound/WayBackHome/WayBackHome.band
+/subRes/Music/Sound/WayBackHome/WayBackHome.mc
+/subRes/Music/Sound/WayBackHome/WayBackHome.ogg
+/subRes/Music/Version.json
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Animation/NoteBoard/Def-Def.lani
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Animation/NoteBoard/Shank-Shank.lani
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/FBX/pian-Plane001.lm
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/deng.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/huan 1.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/huan.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/LIZI.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/shan.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/sj.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/uoei.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/xin.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 11.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 13.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 15.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 17.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 18.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 2.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 4.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 5.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 7.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/Material/Yellow 8.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/2222.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/232341243.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/cahng.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/CBSun2.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/db72f81feb88e5db78fd2261cad7643bd9a27e6d8ba0-221txD_fw658.jpg
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/dfbf88dc2e4bbd3409329baaebac2f52ed71bdfe816fb-ePyAzL.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/dimian.jpg
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/effect_roundedsquare 1.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/efs.jpg
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/etc_mirage_cold_bs.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/f6e8a46cd79790f3b20ceaaad8ef72444a2bb38b143a5-kdyHYI.jpg
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/lightWay.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/sunray.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/tuowei.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/xing.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/yft.png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Effect/TQ3D/TIETU/yuahn].png
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Material/Blue.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Material/Red.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Material/white.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Material/Yellow.lmat
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Mesh/Box001 _4874-Box001_0.lm
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Mesh/Box002-Box002_0.lm
+/subRes/Scenes/LayaScene_Game/Conventional/Assets/Mesh/pPlane1-pPlane1_0.lm
+/subRes/Scenes/LayaScene_Game/Conventional/Game.ls
+/subRes/Scenes/LayaScene_Game/Conventional/Library/unity default resources-Cube.lm
+/subRes/Scenes/LayaScene_Game/Conventional/Library/unity default resources-Quad.lm
+/subRes/Scenes/LayaScene_Game/Conventional/Library/unity default resources-Sphere.lm
+/subRes/Scenes/LayaScene_Game/Conventional/Resources/unity_builtin_extra.lmat
+/subRes/sound/anniu.ogg
+/unpack.json
+/utils/ald-game-conf.js
+/utils/ald-game.js
+/version.json
+/View/ExportView.scene
+/View/GameFailure.scene
+/View/GameLoading.scene
+/View/GameMain.scene
+/View/GameSettleView.scene
+/View/GameWork.scene
+/View/SongStore.scene
+/View/TipsView.scene
+/View/UniversalBottomZone.scene

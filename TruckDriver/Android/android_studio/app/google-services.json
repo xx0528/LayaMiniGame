@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "743809206278",
+    "project_id": "truck-driver-1bfd1",
+    "storage_bucket": "truck-driver-1bfd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743809206278:android:a01bc27ddbdac8af555b87",
+        "android_client_info": {
+          "package_name": "com.reborn.TruckDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743809206278-7re8a3k6tgm4g8fp4541lg7jp1o06j0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reborn.TruckDriver",
+            "certificate_hash": "0e1b8501523951689c62c9b760d646cd504ce579"
+          }
+        },
+        {
+          "client_id": "743809206278-2cu9t7liog4d1p40qr1q0k4d718h71ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgNo-9Z9V1ZKqLkH-KqoTsasI1h23F3dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743809206278-2cu9t7liog4d1p40qr1q0k4d718h71ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

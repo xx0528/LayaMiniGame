@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1045181407139",
+    "project_id": "rescue-dinosaur-cut-rope",
+    "storage_bucket": "rescue-dinosaur-cut-rope.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045181407139:android:b0780b95b48f9cf2d98416",
+        "android_client_info": {
+          "package_name": "com.reborn.CutRope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045181407139-pugohmhemjbi8qi8p310rktr0huoosht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reborn.CutRope",
+            "certificate_hash": "0ddffd10ac7109448f65d2269cc72dd8c87182c9"
+          }
+        },
+        {
+          "client_id": "1045181407139-2ac4ralc4efiusfr3samv9ilm12rm5js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXiowUmSCqMkD6kndWpEOQB0V9gjC99w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045181407139-2ac4ralc4efiusfr3samv9ilm12rm5js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

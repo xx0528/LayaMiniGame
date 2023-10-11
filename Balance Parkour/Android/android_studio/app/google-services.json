@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725824852539",
+    "project_id": "balance-parkour",
+    "storage_bucket": "balance-parkour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725824852539:android:8f70b313300d3b8d5c821e",
+        "android_client_info": {
+          "package_name": "com.ly0528.BalanceParkour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725824852539-1qk71jcc6arkkqbtp64ub7g54l7avf3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ly0528.BalanceParkour",
+            "certificate_hash": "d9c2fc4bd1adf2223e02edd6917a5c60bb39bced"
+          }
+        },
+        {
+          "client_id": "725824852539-q0ah78g45bm02e17espq5nlbdk3nhveb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6P-vIx7mEgVrJGf-dUBsQjAQQCrK8To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725824852539-q0ah78g45bm02e17espq5nlbdk3nhveb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241395889797",
+    "project_id": "parking-master-62c8d",
+    "storage_bucket": "parking-master-62c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241395889797:android:10e775854ce7679cca1bec",
+        "android_client_info": {
+          "package_name": "com.reborn.ParkingMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241395889797-509c7f2vd14ekrj1e1v6lot29q95jdfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reborn.ParkingMaster",
+            "certificate_hash": "f41fb58a9c49491cc0ccd5f234f034bfef4a3808"
+          }
+        },
+        {
+          "client_id": "241395889797-dogc2ikfqq3us9bg5g1529pub2832rn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DZ04V_8gU97fgQpADhjjgJWwQb4i5hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241395889797-dogc2ikfqq3us9bg5g1529pub2832rn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

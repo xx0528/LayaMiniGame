@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Golf Fighting</string>
+    <string name="on_back_pressed">Click the back button again to exit the game!</string>
+    <string name="alert_dialog_title">Notice</string>
+    <!--专用测试插页广告ID 测试时用真实ID有可能会被封号-->
+<!--    <string name="ad_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--真实插页广告-->
+    <string name="ad_interstitial_id">ca-app-pub-8714987907059783/3699199175</string>
+    <!--专用测试激励广告ID 测试时用真实ID有可能会被封号-->
+<!--    <string name="ad_reward_id">ca-app-pub-3940256099942544/5224354917</string>-->
+    <!--真实激励广告ID-->
+    <string name="ad_reward_id">ca-app-pub-8714987907059783/4295177114</string>
+    <!--专用测试横幅广告ID 测试时用真实ID有可能会被封号-->
+<!--    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--真实横幅广告ID-->
+    <string name="banner_ad_unit_id">ca-app-pub-8714987907059783/5182288341</string>
+</resources>

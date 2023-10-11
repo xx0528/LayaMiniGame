@@ -1,0 +1,1 @@
+{"type":"View","props":{"width":750,"top":0,"right":0,"left":0,"height":1334,"bottom":0},"compId":2,"child":[{"type":"Image","props":{"y":0,"x":0,"skin":"切图/游戏界面/背景（可共用）.png","name":"Bg"},"compId":62}],"loadList":["切图/游戏界面/背景（可共用）.png"],"loadList3D":[]}

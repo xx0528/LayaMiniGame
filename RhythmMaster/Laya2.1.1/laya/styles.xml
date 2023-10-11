@@ -1,0 +1,11 @@
+<res>
+   <item name="Resource/SongDisc/0.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="Resource/SongDisc/1.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="Resource/SongDisc/2.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="Resource/Pack/组 16 拷贝.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="Resource/Unpack/421_0025_组-16.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Resource/Pack/555_0006_图层-663.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="Resource/Pack/555_0008_组-1.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="Resource/Unpack" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Resource/Pack/555_0007_组-1-拷贝.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>

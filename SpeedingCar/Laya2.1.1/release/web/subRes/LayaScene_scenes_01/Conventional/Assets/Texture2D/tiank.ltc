@@ -1,0 +1,8 @@
+{
+	"front":"tiank_PositiveZ.png",
+	"back":"tiank_NegativeZ.png",
+	"left":"tiank_PositiveX.png",
+	"right":"tiank_NegativeX.png",
+	"up":"tiank_PositiveY.png",
+	"down":"tiank_NegativeY.png"
+}

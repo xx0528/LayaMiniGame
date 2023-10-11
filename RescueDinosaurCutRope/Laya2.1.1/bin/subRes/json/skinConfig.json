@@ -1,0 +1,32 @@
+[
+    {
+        "skinlNum" : 1,
+        "costDiamond": 5,
+        "vedio": 0
+    },
+    {
+        "skinlNum" : 2,
+        "costDiamond": 0,
+        "vedio": 1
+    },
+    {
+        "skinlNum" : 3,
+        "costDiamond": 40,
+        "vedio": 0
+    },
+    {
+        "skinlNum" : 4,
+        "costDiamond": 0,
+        "vedio": 2
+    },
+    {
+        "skinlNum" : 5,
+        "costDiamond": 80,
+        "vedio": 0
+    },
+    {
+        "skinlNum" : 6,
+        "costDiamond": 0,
+        "vedio": 3
+    }
+]

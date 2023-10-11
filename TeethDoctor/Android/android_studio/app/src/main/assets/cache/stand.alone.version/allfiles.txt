@@ -1,0 +1,504 @@
+/fileconfig.json
+/GameMain.json
+/h5/index.js
+/index.html
+/index.js
+/js/bundle.js
+/js/bundle.js.map
+/KRQ.json
+/libs/min/laya.ani.min.js
+/libs/min/laya.core.min.js
+/libs/min/laya.d3.min.js
+/libs/min/laya.ui.min.js
+/res/atlas/ClickGetPrize.atlas
+/res/atlas/ClickGetPrize.png
+/res/atlas/KRQ.atlas
+/res/atlas/KRQ.png
+/res/atlas/Loading.atlas
+/res/atlas/Loading.png
+/res/atlas/切图/icon.atlas
+/res/atlas/切图/icon.png
+/res/atlas/切图/loading.atlas
+/res/atlas/切图/loading.png
+/res/atlas/切图/主界面.atlas
+/res/atlas/切图/主界面.png
+/res/atlas/切图/广告页.atlas
+/res/atlas/切图/广告页.png
+/res/atlas/切图/游戏界面.atlas
+/res/atlas/切图/游戏界面.png
+/res/atlas/切图/胜利.atlas
+/res/atlas/切图/胜利.png
+/res/atlas/效果图.atlas
+/res/atlas/效果图.png
+/subRes/game.js
+/subRes/guider/NewProject.png
+/subRes/guider/NewProject.sk
+/subRes/json/appswitch.json
+/subRes/LayaScene_Test/Conventional/Assets/Ani/Clipping-Clipping.lani
+/subRes/LayaScene_Test/Conventional/Assets/Ani/Idle-Idle.lani
+/subRes/LayaScene_Test/Conventional/Assets/Ani/Select-1-Select-1.lani
+/subRes/LayaScene_Test/Conventional/Assets/Ani/Tonsil-1-Tonsil-1.lani
+/subRes/LayaScene_Test/Conventional/Assets/Ani/Toung-1-Toung-1.lani
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Bracer-Bracer_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/BracerWire-BracerWire_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/buya-Cylinder001.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Cube-Cube_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Cylinder003-Cylinder003_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Cylinder004-Cylinder004_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Face_Male_Default-BottomJaw.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Face_Male_Default-Face.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Face_Male_Default-Object001.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Face_Male_Default-Object002.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Face_Male_Default-TopJaw.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Face_Male_Default-Toung.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Face_Male_Default-Uvula1.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface1.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface10.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface100.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface103.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface104.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface105.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface106.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface107.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface108.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface109.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface11.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface110.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface111.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface112.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface113.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface114.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface115.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface117.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface118.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface119.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface12.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface120.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface121.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface122.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface123.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface124.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface125.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface126.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface127.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface128.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface129.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface13.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface130.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface131.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface132.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface133.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface134.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface135.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface136.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface137.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface138.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface139.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface141.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface143.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface144.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface146.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface148.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface15.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface150.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface151.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface153.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface154.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface155.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface156.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface157.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface158.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface159.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface160.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface161.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface162.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface163.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface164.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface166.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface167.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface168.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface169.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface17.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface170.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface171.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface172.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface174.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface175.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface176.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface178.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface179.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface18.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface180.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface182.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface183.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface185.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface186.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface187.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface188.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface189.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface19.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface191.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface192.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface194.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface196.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface198.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface199.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface2.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface20.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface200.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface201.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface202.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface203.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface204.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface205.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface207.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface208.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface209.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface21.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface210.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface22.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface23.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface24.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface25.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface27.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface28.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface29.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface3.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface30.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface31.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface32.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface33.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface34.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface35.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface36.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface37.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface38.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface39.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface40.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface41.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface42.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface43.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface44.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface45.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface47.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface48.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface49.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface5.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface50.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface51.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface52.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface53.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface54.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface56.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface57.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface58.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface59.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface60.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface62.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface63.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface64.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface66.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface67.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface69.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface7.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface70.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface71.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface72.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface73.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface75.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface76.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface77.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface79.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface8.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface80.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface81.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface82.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface83.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface84.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface86.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface87.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface88.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface89.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface9.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface90.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface91.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface93.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface94.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface96.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface97.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface98.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor1 _62663-polySurface99.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor_broken-incisor_broken_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor_broken-incisor_broken_1.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/incisor_healthy-incisor_healthy_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Materials/molar_healthy_0Mat.lmat
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Materials/zuanya_01_polySurface805_suiya_02Mat.lmat
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Materials/zuanya_01_polySurface897Mat.lmat
+/subRes/LayaScene_Test/Conventional/Assets/FBX/molar_broken-molar_broken_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/molar_broken-molar_broken_1.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/molar_healthy-molar_healthy_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/Plane001-Plane001_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/polySurface1 _1335-polySurface1_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/polySurface3 _1354-polySurface3_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/polySurface4 _1368-polySurface4_0.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/ToothFiller-polySurface1.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/ToothFiller-polySurface3.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/ToothFiller-polySurface4.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/ToothFiller-polySurface5.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface100.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface101.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface102.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface103.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface104.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface105.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface106.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface107.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface108.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface109.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface110.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface111.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface112.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface113.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface114.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface115.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface116.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface117.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface118.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface119.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface120.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface121.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface122.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface123.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface124.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface125.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface126.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface127.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface128.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface129.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface130.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface131.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface132.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface133.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface134.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface135.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface136.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface137.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface138.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface139.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface140.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface141.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface142.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface143.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface144.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface145.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface146.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface147.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface148.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface149.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface150.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface151.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface152.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface153.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface154.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface155.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface156.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface157.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface158.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface159.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface160.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface161.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface162.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface163.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface164.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface165.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface46.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface47.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface48.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface49.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface50.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface51.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface52.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface53.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface54.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface55.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface56.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface57.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface58.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface59.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface60.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface61.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface62.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface63.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface64.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface65.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface66.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface67.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface68.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface69.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface70.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface71.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface72.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface73.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface74.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface75.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface76.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface77.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface78.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface79.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface80.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface81.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface82.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface83.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface84.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface85.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface86.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface87.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface88.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface89.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface90.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface91.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface92.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface93.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface94.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface95.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface96.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface97.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface98.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/yagou_01-polySurface99.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface1.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface10.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface11.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface12.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface13.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface14.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface15.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface16.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface17.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface18.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface19.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface2.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface20.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface21.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface22.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface23.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface24.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface25.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface26.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface27.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface28.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface29.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface3.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface30.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface31.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface32.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface33.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface34.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface35.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface36.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface37.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface38.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface39.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface4.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface40.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface41.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface42.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface43.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface44.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface45.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface5.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface6.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface7.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface8.lm
+/subRes/LayaScene_Test/Conventional/Assets/FBX/zuanya_01-polySurface9.lm
+/subRes/LayaScene_Test/Conventional/Assets/Materials/arrow_fire.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/bg.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/Client_WhiteMan_1_Primary.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/Client_WhiteMan_1_Seconday.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/FillingToolMetal 1.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/FillingToolMetal.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/FillingToolPlastique 1.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/FillingToolPlastique.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/GreenV0.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/Gums.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/js.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/JY.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/Select.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/shanguang_00043.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/shitou.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/shui.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/suixie.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/Throat.jpg
+/subRes/LayaScene_Test/Conventional/Assets/Materials/Throat.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/ToolRange.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/Tounge.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/YC.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Materials/zuanya.lmat
+/subRes/LayaScene_Test/Conventional/Assets/Text/11111_00000 (2).png
+/subRes/LayaScene_Test/Conventional/Assets/Text/arrow_fire.jpg
+/subRes/LayaScene_Test/Conventional/Assets/Text/lizi_00001.png
+/subRes/LayaScene_Test/Conventional/Assets/Text/Select.png
+/subRes/LayaScene_Test/Conventional/Assets/Text/yuan.png
+/subRes/LayaScene_Test/Conventional/Library/unity default resources-Quad.lm
+/subRes/LayaScene_Test/Conventional/Library/unity default resources-Sphere.lm
+/subRes/LayaScene_Test/Conventional/Resources/unity_builtin_extra.lmat
+/subRes/LayaScene_Test/Conventional/Test.ls
+/subRes/longgu/NewProject.png
+/subRes/longgu/NewProject.sk
+/subRes/main.js
+/subRes/res/atlas/切图/icon.atlas
+/subRes/res/atlas/切图/icon.png
+/subRes/res/atlas/切图/loading.atlas
+/subRes/res/atlas/切图/loading.png
+/subRes/res/atlas/切图/主界面.atlas
+/subRes/res/atlas/切图/主界面.png
+/subRes/res/atlas/切图/广告页.atlas
+/subRes/res/atlas/切图/广告页.png
+/subRes/res/atlas/切图/游戏界面.atlas
+/subRes/res/atlas/切图/游戏界面.png
+/subRes/res/atlas/切图/胜利.atlas
+/subRes/res/atlas/切图/胜利.png
+/subRes/sound/anniu.ogg
+/subRes/sound/BGM.ogg
+/subRes/sound/上牙支架链接1.ogg
+/subRes/sound/下牙支架链接2.ogg
+/subRes/sound/全部完成展示.ogg
+/subRes/sound/包金牙.ogg
+/subRes/sound/单个完成.ogg
+/subRes/sound/填充.ogg
+/subRes/sound/小节完成.ogg
+/subRes/sound/拔牙.ogg
+/subRes/sound/拔牙1.ogg
+/subRes/sound/拔牙2.ogg
+/subRes/sound/拔牙夹住牙齿.ogg
+/subRes/sound/按钮.ogg
+/subRes/sound/牙垢.ogg
+/subRes/sound/牙垢1.ogg
+/subRes/sound/牙垢2.ogg
+/subRes/sound/牙垢3.ogg
+/subRes/sound/磨牙和洗牙垢.ogg
+/subRes/sound/虫牙补洞.ogg
+/subRes/sound/镀金.ogg
+/subRes/sound/除垢.ogg
+/unpack.json
+/utils/qq/ald-game-conf.js
+/utils/qq/ald-game.js
+/utils/wx/ald-game-conf.js
+/utils/wx/ald-game.js
+/version.json
+/View/ClickGetPrize.json
+/View/FakeExport.json
+/View/GameOver.json
+/View/GameView.json
+/View/KRQ_TEST.json
+/View/MainView.json
+/View/MoreGameView.json
+/View/TipsView.json
+/View/UniversalBottomZone.json
+/切图/icon/洗牙小能手icon.jpg
+/切图/loading/loading背景.png
+/切图/loading/logo.png
+/切图/主界面/主界面背景.png
+/切图/主界面/洗牙小能手主界面2.jpg
+/切图/主界面/背景（可共用）.png
+/切图/广告页/QzpcVXNlcnNcQWRtaW5pc3RyYXRvclxBcHBEYXRhXFJvYW1pbmdcRGluZ1RhbGtcMTA4NzA3MzU5MF92MlxJbWFnZUZpbGVzXDE1ODI2ODMzOTAyODNfNUI0NjBGMkMtNUQyMC00YTk4LThGQTItOEY2N0M2RTk2MjNFLnBuZw==.png
+/切图/游戏界面/背景（可共用）.png

@@ -1,0 +1,702 @@
+[
+    {
+        "levelNum" : 1,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 2,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 3,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 4,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 5,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 6,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 7,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 8,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 9,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 10,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 11,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 12,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 13,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 14,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 15,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 16,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 17,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 18,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 19,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 20,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 21,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 22,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 23,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 24,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 25,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 26,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 27,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 28,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 29,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 30,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 31,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 32,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 33,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 34,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 35,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 36,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 37,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 38,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 39,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 40,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 41,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 42,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 43,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 44,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 45,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 46,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 47,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 48,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 49,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 50,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+  	{
+        "levelNum" : 51,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 52,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 53,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 54,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 55,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 56,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 57,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 58,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 59,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 60,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 61,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 62,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 63,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 64,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 65,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 66,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 67,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 68,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 69,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 70,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 71,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 72,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 73,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 74,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 75,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 76,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 77,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 78,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 79,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 80,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 81,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 82,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 83,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 84,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 85,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 86,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 87,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 88,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 89,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 90,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 91,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 92,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 93,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 94,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 95,
+        "costEnergy":5,
+        "getDiamond":5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 96,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 97,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 98,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 99,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    },
+    {
+        "levelNum" : 100,
+        "costEnergy": 5,
+        "getDiamond": 5,
+        "vedioCostNoEnergy":0,
+        "vedioDoubleDiamond":0
+    }  
+]

@@ -1,0 +1,48 @@
+D .
+D 切图
+D 切图/icon
+P E4E27784 icon.png
+R E104BA29 洗牙小能手icon.jpg
+D 切图/loading
+P 80AAC07E LOADING.png
+P 95054145 loading上条.png
+P C0B01151 loading下条.png
+R 8ACA0F48 loading背景.png
+R 097BE536 logo.png
+D 切图/主界面
+R 42AF4AE8 主界面背景.png
+P D4C95A7C 主界面背景下.png
+P A1888046 关.png
+P C44CBBFD 关卡数字.png
+P 1B985218 广告框.png
+P 5FB76B4B 广告框可循环.png
+P 8B7B3DE7 开始游戏.png
+P 4EF5B6F9 开始游戏2.png
+P 2B014D33 柜子.png
+R 2138F7FB 洗牙小能手主界面2.jpg
+P 4DA9C802 电视.png
+P 6DFD25CB 画框.png
+P 4F56D922 盆栽.png
+P 014FDD25 第.png
+P 62693C55 金币框（可共用）.png
+P 3D8A9E8F 钟表.png
+D 切图/广告页
+P 166D06BA 广告框.png
+P AF96D032 退出（可通用）.png
+D 切图/游戏界面
+P 456905E7 包金牙.png
+P E14E7474 完成.png
+P 735DB430 拔牙.png
+P 02EA5004 牙垢.png
+P 0836DA45 箍牙.png
+R A9857643 背景（可共用）.png
+P FDF11D9A 虫牙.png
+P 0DCA6915 表情.png
+P 233AB222 角标.png
+P 62693C55 金币框（可共用）.png
+P AF616EE0 钻牙.png
+D 切图/胜利
+P 534A801B 下一关.png
+P 04A5AC0D 回主页.png
+P 9479C9E4 广告框.png
+P 65BA2205 胜利.png

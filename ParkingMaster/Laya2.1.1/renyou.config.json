@@ -1,0 +1,75 @@
+[
+  {
+    "filename": "src/AppConfig.ts",
+    "config": {
+      "AppID": "",
+      "ResServer": "",
+      "Versions": "",
+      "onTTMiniGame": ""
+    }
+  },
+  {
+    "filename": "src/Net/NetConfig.ts",
+    "config": {
+      "state": 0,
+      "gameid": 0,
+      "Login": "/api/login/login/wxclogin"
+    }
+  },
+  {
+    "filename": "src/ShareAd/ShareAd.ts",
+    "config": {
+      "LoopAdLocationID": -1,
+      "BannerAdLocationID": -1,
+      "InsertAdLocationID": -1,
+      "AniAdLocationID": -1,
+      "HistoryLocationID": -1,
+      "UseRandomAdPos": true,
+      "AdLocationids": []
+    }
+  },
+  {
+    "filename": "bin/game.json",
+    "config": {
+      "navigateToMiniProgramAppIdList": [
+
+      ]
+    }
+  },
+  {
+    "filename": "src/OPPOAPI.ts",
+    "config": {
+      "adUnitId": "",
+      "bannerAdUnitId": "",
+      "InsAdUnitId": "",
+      "OpenScreenAdUnitId": "",
+      "NativeAdId": ""
+    }
+  },
+  {
+    "filename": "src/WXAPI.ts",
+    "config": {
+      "adUnitId": "",
+      "bannerAdUnitId": "",
+      "InsAdUnitId": ""
+    }
+  },
+  {
+    "filename": "bin/project.config.json",
+    "config": {
+      "appid": ""
+    }
+  },
+  {
+    "filename": "bin/utils/wx/ald-game-conf.js",
+    "config": {
+      "app_key": ""
+    }
+  },
+  {
+    "filename": "bin/utils/qq/ald-game-conf.js",
+    "config": {
+      "app_key": ""
+    }
+  }
+]
