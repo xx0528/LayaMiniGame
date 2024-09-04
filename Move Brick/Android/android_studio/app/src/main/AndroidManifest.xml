@@ -14,7 +14,7 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-		android:theme="@style/Theme.AppCompat.NoActionBar"
+		android:theme="@style/Theme.MiniGameTheme"
         tools:targetApi="m">
 
 
@@ -33,14 +33,6 @@
         <uses-library
             android:name="org.apache.http.legacy"
             android:required="false" />
-
-        <receiver
-            android:name="com.appsflyer.SingleInstallBroadcastReceiver"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="com.android.vending.INSTALL_REFERRER" />
-            </intent-filter>
-        </receiver>
 
     </application>
 
