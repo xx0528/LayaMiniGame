@@ -1,0 +1,26 @@
+<res>
+   <item name="KRQ/jiesuanyead.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=20,30,92,30" picType="0" scale="0"/>
+   <item name="res/dibubeijingsekuai.png" type="Sprite" compress="0" pack="2" quality="80" props="sizeGrid=2,20,20,20" picType="0" scale="0"/>
+   <item name="res/loadingshangtiao.png" type="Sprite" compress="0" pack="2" quality="80" props="sizeGrid=0,12,0,12" picType="0" scale="0"/>
+   <item name="res/ziyuanjiazaizhong.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/loadingxiatiao.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=0,25,0,25" picType="0" scale="0"/>
+   <item name="res/R.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/W.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/Y.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ren.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/jiazaidunhao.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/you.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/wan.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ClickGetPrize/juxing568.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="ClickGetPrize/meiriqiandaolansebg.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0" scale="0"/>
+   <item name="ClickGetPrize/jindutiao.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=0,16,0,16" picType="0" scale="0"/>
+   <item name="Template/juxing619.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="Template/TT/qiandaobeijing(kegongyong).png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="Template/TT/SignIn/qiandaotou.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="Template/TT/yuanjiaojuxing8kaobei3.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="Template/bg.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="res/1.0.0.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/loading_bg_1.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/loading上条.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ryw.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>
