@@ -7993,6 +7993,7 @@
             this.ryw__bg.height = Laya.stage.height;
         }
         ryw_setProcess(process) {
+            console.log("set process---------------- " + process);
             if (process < 0)
                 process = 0;
             if (process > 1)

@@ -46,6 +46,7 @@ export default class ryw_LoadingView extends ryw_ViewBase
 
     public ryw_setProcess(process : number)
     {
+        console.log("set process---------------- " + process);
         if(process < 0 )
             process = 0;
         if(process > 1 )

@@ -15,7 +15,7 @@ import com.reborn.HomeEscape.R;
 public class SplashDialog extends Dialog {
     private Context mContext;
     private long mStartTime;
-    private long mleastShowTime = 2;
+    private long mleastShowTime = 1;
     private TextView mTipsView;
     private String[] mTips = {};
     private int mFontColor;

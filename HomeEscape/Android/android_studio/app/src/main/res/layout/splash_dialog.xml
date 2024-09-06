@@ -14,8 +14,8 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:adjustViewBounds="true"
-        android:maxWidth="200dp"
-        android:maxHeight="200dp"
+        android:maxWidth="300dp"
+        android:maxHeight="300dp"
         android:src="@drawable/logo"
         tools:scaleType="fitCenter" />
 

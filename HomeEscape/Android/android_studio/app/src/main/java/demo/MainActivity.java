@@ -148,7 +148,7 @@ public class MainActivity extends Activity{
                         @Override
                         public void onAdLoaded(@NonNull RewardedAd rewardedAd) {
                             MainActivity.this.rewardedAd = rewardedAd;
-                            Log.d(TAG, "onAdLoaded");
+                            Log.e(TAG, "loadRewardedAd onAdLoaded ------ ");
                             MainActivity.this.isLoading = false;
 //                            Toast.makeText(MainActivity.this, "onAdLoaded", Toast.LENGTH_SHORT).show();
                         }
@@ -373,9 +373,11 @@ public class MainActivity extends Activity{
         Log.e("0", "============== showBanner ");
         if (adView != null) {
             this.adView.setVisibility(View.VISIBLE);
+            Log.e("0", "============== on -- showBanner ");
         }
         else {
             Toast.makeText(MainActivity.this, "The banner ad wasn't ready yet.", Toast.LENGTH_SHORT).show();
+            Log.e("0", "----------The banner ad wasn't ready yet showBanner ");
         }
     }
     //只有插页视频在这里主动load 激励视频看完直接就load了
