@@ -44,7 +44,7 @@ import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 import com.google.android.gms.ads.rewarded.RewardItem;
 import com.google.android.gms.ads.rewarded.RewardedAd;
 import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback;
-import com.reborn.HomeEscape.R;
+import com.xxboxg.TheWayHome.R;
 
 
 public class MainActivity extends Activity{

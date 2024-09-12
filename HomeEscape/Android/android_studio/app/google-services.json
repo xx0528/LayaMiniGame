@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:480997990389:android:8b159e63f89ec1c191cabc",
         "android_client_info": {
-          "package_name": "com.reborn.HomeEscape"
+          "package_name": "com.xxboxg.TheWayHome"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "480997990389-bfea1apv9olrs88d3rup9nbkg1vi33ai.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.reborn.HomeEscape",
+            "package_name": "com.xxboxg.TheWayHome",
             "certificate_hash": "dcf9e67ba1f36d9d624f53150fc6eab5deab138d"
           }
         },

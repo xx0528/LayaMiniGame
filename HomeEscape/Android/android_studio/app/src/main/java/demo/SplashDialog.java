@@ -9,7 +9,7 @@ import android.os.Message;
 import android.view.KeyEvent;
 import android.view.View;
 import android.widget.TextView;
-import com.reborn.HomeEscape.R;
+import com.xxboxg.TheWayHome.R;
 
 
 public class SplashDialog extends Dialog {

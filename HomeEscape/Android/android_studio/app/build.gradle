@@ -4,11 +4,11 @@ plugins {
 
 
 android {
-    namespace = "com.reborn.HomeEscape"
+    namespace = "com.xxboxg.TheWayHome"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.reborn.HomeEscape"
+        applicationId = "com.xxboxg.TheWayHome"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

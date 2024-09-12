@@ -1,0 +1,4 @@
+
+keystore 密码：Minigame123!@#
+alias ： minigame
+密码： Minigame123!@#
