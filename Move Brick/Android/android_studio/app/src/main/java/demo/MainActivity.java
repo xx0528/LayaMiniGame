@@ -27,7 +27,7 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 
-import com.reborn.MoveBrick.R;
+import com.xxboxg.MoveBrick.R;
 
 
 public class MainActivity extends Activity{

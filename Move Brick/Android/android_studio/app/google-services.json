@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:94020005181:android:4c979198ad4bc0f59aa954",
         "android_client_info": {
-          "package_name": "com.reborn.MoveBrick"
+          "package_name": "com.xxboxg.MoveBrick"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "94020005181-b02iog13ite22mn362f1b5vl0bv90qmv.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.reborn.MoveBrick",
+            "package_name": "com.xxboxg.MoveBrick",
             "certificate_hash": "c553d25c401a10756746e53e4ffa39409e374ebf"
           }
         },

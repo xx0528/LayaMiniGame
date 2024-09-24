@@ -14,7 +14,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-import com.reborn.MoveBrick.R;
+import com.xxboxg.MoveBrick.R;
 
 public class GameEngine implements IPlugin {
 	private static final String TAG = "LayaGameEngine";
