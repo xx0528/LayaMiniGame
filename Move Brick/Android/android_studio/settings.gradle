@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MoveBrick"
+rootProject.name = "Move It!"
 include(":app")
  
